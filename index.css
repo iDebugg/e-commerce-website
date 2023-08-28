@@ -1,0 +1,42 @@
+#searchInput {
+    width: 270px;
+    border-radius: 3px;
+    border: 1px solid brown;
+    height: 35px;
+    margin-top: 30px;
+}
+
+#display {
+    border: 1px solid brown;
+    margin-top: 20px;
+}
+
+.container {
+    text-align: center;
+}
+
+button {
+    border-radius: 40px;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+input::placeholder {
+    font-style: italic;
+    color: rgb(131, 130, 129);
+    padding-left: 30px;
+}
+
+body {
+    background-color: rgb(228, 225, 225);
+}
+
+.simp {
+    text-align: center;
+    color: rgb(17, 17, 188);
+    font-style: italic;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
